@@ -2,7 +2,7 @@
 
 # Hi there, I'm Tushar! 👋
 
-### 🧠 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=false&vCenter=true&width=380&lines=Competitive+Programmer;DSA+Problem+Solver;Backend+Engineer" alt="Typing SVG" valign="middle" />
+### 🧠 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=false&vCenter=true&width=380&lines=Competitive+Programmer;DSA+Problem+Solver;Backend+Engineer;Programming Enthusiast" alt="Typing SVG" valign="middle" />
 
 🚀 **Deep-diving into complex algorithms, optimization, and scalable backend design.**
 
@@ -30,21 +30,20 @@
 
 ### 📊 Competitive Programming & Platform Stats
 
-<div align="center">
-  <p align="center">
-    <img src="https://leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" alt="LeetCode Stats" height="160" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/TusharSharma2006?theme=dark&font=Fira%20Code" alt="LeetCode Stats" height="160" />
+</p>
 
 <br />
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TusharSharma2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharSharma2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 <br />
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharSharma2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" height="150" />
-</div>
+</p>
