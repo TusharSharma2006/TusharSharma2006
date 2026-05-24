@@ -37,13 +37,13 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharSharma2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=TusharSharma2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharSharma2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com?user=TusharSharma2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharSharma2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TusharSharma2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" height="150" />
 </p>
