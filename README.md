@@ -2,7 +2,7 @@
 
 # Hi there, I'm Tushar! 👋
 
-### 🧠 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=false&vCenter=true&width=380&lines=Competitive+Programmer;DSA+Problem+Solver;Backend+Engineer;Programming Enthusiast" alt="Typing SVG" valign="middle" />
+### 🧠 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=false&vCenter=true&width=380&lines=Competitive+Programmer;DSA+Problem+Solver;Backend+Engineer" alt="Typing SVG" valign="middle" />
 
 🚀 **Deep-diving into complex algorithms, optimization, and scalable backend design.**
 
